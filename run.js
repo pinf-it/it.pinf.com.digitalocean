@@ -1,6 +1,6 @@
 #!/usr/bin/which node
 
-const VERBOSE = true;
+const VERBOSE = false;
 
 const ASSERT = require("assert");
 const UTIL = require("util");
